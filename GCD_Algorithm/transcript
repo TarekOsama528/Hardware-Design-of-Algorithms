@@ -1,0 +1,18 @@
+# vsim GCD_tb -c -do "run -all" 
+# Start time: 23:31:21 on Feb 04,2025
+# Loading work.GCD_tb
+# Loading work.Datapath
+# Loading work.PIPO
+# Loading work.MUX
+# Loading work.Subtractor
+# Loading work.Comparator
+# Loading work.Controller
+# run -all
+#                    0 result:    x  x
+#                    5 result:    x  0
+#                   87 result:    x  1
+#                   95 result:   13  1
+# ** Note: $finish    : GCD_tb.v(36)
+#    Time: 10003 ns  Iteration: 0  Instance: /GCD_tb
+# End time: 23:31:21 on Feb 04,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

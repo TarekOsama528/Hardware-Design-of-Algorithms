@@ -1,0 +1,178 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/osama/OneDrive/Desktop/vivadoo/GCD_Algorithm/GCD_Algorithm.srcs/sources_1/new
+vComparator
+Z1 !s110 1738704678
+!i10b 1
+!s100 4I^_JoooD?3OFhMbjJJV=3
+Iog0J?dmmfYaMWHI^S5`033
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1738595034
+8Comparator.v
+FComparator.v
+Z3 L0 23
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1738704678.000000
+Z6 !s107 Subtractor.v|PIPO.v|MUX.v|GCD_tb.v|GCD.v|Datapath.v|Controller.v|Comparator.v|
+Z7 !s90 Comparator.v|Controller.v|Datapath.v|GCD.v|GCD_tb.v|MUX.v|PIPO.v|Subtractor.v|
+!i113 1
+Z8 tCvgOpt 0
+n@comparator
+vController
+R1
+!i10b 1
+!s100 MW7aTTcEl`DBDK?R4HdNK2
+IT=3i9NUozGZL=N@4db0Xg3
+R2
+R0
+w1738704297
+8Controller.v
+FController.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@controller
+vDatapath
+R1
+!i10b 1
+!s100 dj5Eh^9;ClJ];_8g5]AH01
+InPHlca=<[Bn?Ec;kEeTAL1
+R2
+R0
+w1738704056
+8Datapath.v
+FDatapath.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@datapath
+vGCD
+R1
+!i10b 1
+!s100 Y7D:Y;_Yfo4lczT^O^f2S0
+I2RYJPzfDVK6f;zVz=GJeb0
+R2
+R0
+w1738704674
+8GCD.v
+FGCD.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@g@c@d
+vGCD_tb
+R1
+!i10b 1
+!s100 Sk1Vj[3=X[5Zi>_e_DSe_1
+Iife7^=gE;;8DKEL::=LS`0
+R2
+R0
+w1738704593
+8GCD_tb.v
+FGCD_tb.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@g@c@d_tb
+vMUX
+R1
+!i10b 1
+!s100 Z]I_N;QJkBAfk0Ae>@>lI2
+I]n;hb?b>gE<WcXmKN>A@n1
+R2
+R0
+w1738703294
+8MUX.v
+FMUX.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@m@u@x
+vPIPO
+R1
+!i10b 1
+!s100 fRf@i9eb^YW@mQ4OeCi2d1
+IOY>`o>aUaU@<ClnlVQ9852
+R2
+R0
+w1738703307
+8PIPO.v
+FPIPO.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@p@i@p@o
+vSubtractor
+R1
+!i10b 1
+!s100 gZXVEA^YY_iOS^2=Bd97G2
+IL<^l4S@3RiZD`N7``B[nM2
+R2
+R0
+w1738595415
+8Subtractor.v
+FSubtractor.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
+n@subtractor

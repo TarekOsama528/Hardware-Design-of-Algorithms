@@ -1,0 +1,41 @@
+# vsim tb -c -do "run -all" 
+# Start time: 18:11:49 on Feb 05,2025
+# Loading work.tb
+# Loading work.booth_multiplier
+# Loading work.Datapath
+# Loading work.shift_reg
+# Loading work.d_ff
+# Loading work.PIPO
+# Loading work.ALU
+# Loading work.Counter
+# Loading work.Controller
+# run -all
+#                    0         x x
+#                    5         x 0
+#                   15         0 0
+#                   35        13 0
+#                   454294311949 0
+#                   554294639622 0
+#                   65    327686 0
+#                   75    163843 0
+#                   854294475779 0
+#                   954294721537 0
+#                  1054294844416 0
+#                  115    532480 0
+#                  125    266240 0
+#                  135    133120 0
+#                  145     66560 0
+#                  155     33280 0
+#                  165     16640 0
+#                  175      8320 0
+#                  185      4160 0
+#                  195      2080 0
+#                  205      1040 0
+#                  215       520 0
+#                  225       260 0
+#                  235       130 0
+#                  236       130 1
+# ** Note: $finish    : tb.v(23)
+#    Time: 1030 ns  Iteration: 0  Instance: /tb
+# End time: 18:11:50 on Feb 05,2025, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
