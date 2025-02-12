@@ -30,5 +30,7 @@ module PIPO(
     always @(posedge clk)
     begin
     if (load) data_out <= data_in;
+    else data_out <= data_out;
+
     end
 endmodule
